@@ -6,6 +6,7 @@ Introducere :
 Pentru realizarea acestui proiect , am ales ca tema un Magazin care sa contina diverse articole de pescuit . Incat pescuitul este unul din hobby-urile mele de peste 14 ani , pot spune ca am o oarecare experienta in ce priveste articolele pe care eu le voi introduce in magazinul online . 
 
 Etapa 0 
+
 Magazinul online propus de mine va avea atat momeli , cat si articole necesare pescuitului sportiv . Asadar , vor exista 2 categorii : momeli si produse . Din aceste categorii rezulta si subcategoriile care au legatura cu denumirea articolului si firma care l-a confectionat . De exemplu , pentru momeli (mamaliga,porumb,nada,etc) iar pentru produse (undita,mulineta,momitor,plumb,carlig,etc) . Aceste articole vor aparea toate intr-o pagina principala , unde va fi afisat si stocul curent al fiecarui articol in parte , precum si pretul si eficienta acestuia . Prin eficienta ma refer la recomandarile producatorului in ce priveste utilizarea articolului , intrucat fiecare produs in parte este fabricat cu un singur scop , exista de exemplu mamaligi care pot fi utilizate la o singura specie de peste . Pagina principala va avea si o optiune de filtrare a produselor , deoarece cumparatorul isi doreste sa cumpere un anume articol si poate nu este interesat sa vada toate ofertele propuse de site-ul meu . 
 Paginile vor fi urmatoarele : 
 pagina principala , unde cumparatorul poate vedea toate sugestiile si va putea filtra rezultatele .
